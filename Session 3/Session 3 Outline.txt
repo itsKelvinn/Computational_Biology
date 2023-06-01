@@ -1,0 +1,10 @@
+Session 3 Course Outline 
+-----------------------------------------------------------
+1. Create DNA Sequence 
+2. DNA Complement and reverse complement 
+3. DNA to RNA and RNA to DNA
+4. RNA to Protein 
+5. Converting amino acids to 1&3 latters
+6. Viewing codon table 
+-----------------------------------------------------------
+

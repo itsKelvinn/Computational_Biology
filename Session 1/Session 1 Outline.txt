@@ -1,0 +1,17 @@
+Session 1 Course Outline 
+========================================
+1. Introduction to Computational Bilogy 
+2. Install and Import BioPython Package
+3. Create DNA Sequence 
+4. Manipulation Sequence 
+   -> Finding Sequence Length
+   -> Indexing / Slicing 
+   -> Joining Sequences 
+   -> Counting the number of Nucleotides in a Sequence
+   -> Counting the number of Codons in a Sequence
+   -> Finding the position of Nucleotide in Sequence
+   -> Finding the posisiton of Codon in Sequence
+5. Finding a Subsequence in a Sequence 
+   -> Import nt_search 
+   -> Creating a new Sequence and Subsequence 
+   -> Searching for the Subsequence in the Sequence 

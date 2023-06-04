@@ -1,0 +1,14 @@
+Session 4 Outline 
+=====================
+1. Pairwise2 align
+- Global Aligment (globalxx)
+- Local Aligment (localxx)
+- Aligment Score (score/len)
+
+2. Maximun Similarity Score (globalms)
+- Matcting charcaters : 2 points 
+- Each mismatching charcaters : -1 points
+- 0.5 points are deducted when opening a gap
+- 0.1 points are deducted when extending it.
+
+3. Hamming distance

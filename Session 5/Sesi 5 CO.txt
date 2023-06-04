@@ -1,0 +1,14 @@
+Session 5 Course Outline 
+(Working with Biological GenBank Files)
+==============================================
+- Working with FASTA files []
+	-parse []
+	-read []
+- Working with PDB files []
+	-parse []
+	-read []
+- Writing FASTA files[]
+- Protein Explanatory Data Analysis []
+	-get GC Percentage []
+	-get melting temperature []
+	-plot results []
